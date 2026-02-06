@@ -13,6 +13,11 @@ const quizData = [
         question:"Wie viele Kontinente gibt es?",
         answers: ["5","6","7","8"],
         correct: 2
+    },
+    {
+        question:"Welches Tier ist das größte Landsäugetier?",
+        answers:["Giraffe", "Nashorn", "Elefant","Nilpferd"],
+        correct: 2
     }
 ];
 
